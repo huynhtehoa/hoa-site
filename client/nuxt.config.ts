@@ -3,7 +3,10 @@ import eslintPlugin from 'vite-plugin-eslint';
 
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-  modules: ['@nuxtjs/tailwindcss'],
+  modules: [
+    '@nuxtjs/tailwindcss',
+    '@nuxt/content',
+  ],
   tailwindcss: {
     configPath: 'tailwind.config.ts',
   },
@@ -12,4 +15,6 @@ export default defineNuxtConfig({
       eslintPlugin(),
     ],
   },
+  // nuxt content config
+  // content: {},
 });
