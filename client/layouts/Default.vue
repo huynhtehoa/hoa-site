@@ -1,6 +1,6 @@
 <template>
   <div>
-    ahihi dasd
-    dd
+    Default layout
+    <slot />
   </div>
 </template>

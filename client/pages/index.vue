@@ -1,5 +1,6 @@
 <template>
   <div>
-    <LeuLeu />
+    index page
+    <Counter />
   </div>
 </template>
