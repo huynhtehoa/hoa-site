@@ -1,6 +1,6 @@
 <template>
-  <div class="italic hover:not-italic">
-    Default layout
+  <div>
+    <Nav />
     <slot />
   </div>
 </template>
