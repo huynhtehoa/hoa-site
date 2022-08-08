@@ -8,7 +8,7 @@
 import { useHead, navigateTo } from '#imports';
 
 useHead({
-  title: 'Hoa | Post',
+  title: 'Hoa | Posts',
 });
 
 const navigateToPost = (path: string) => {
