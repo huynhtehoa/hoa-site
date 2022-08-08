@@ -4,7 +4,7 @@
     :href="url"
     target="_blank"
     rel="noreferrer noopener"
-    class="text-emerald-600 decoration-emerald-400 underline"
+    class=" underline text-emerald-600 decoration-emerald-400 dark:text-teal-500 dark:decoration-teal-300"
   >
     {{ text }}
   </a>

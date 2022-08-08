@@ -4,7 +4,7 @@
       v-for="route in routes"
       :key="route.name"
       :to="route.path"
-      class="decoration-emerald-400 decoration-2 underline-offset-4 hover:underline"
+      class="decoration-2 decoration-emerald-400 underline-offset-4 hover:underline dark:decoration-teal-300"
       active-class="underline"
     >
       {{ route.name }}
