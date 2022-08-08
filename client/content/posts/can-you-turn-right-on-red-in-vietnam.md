@@ -2,7 +2,7 @@
 title: 'Can you turn right on red in Vietnam?'
 date: '08/08/2022'
 image:
-  src: 'assets/images/posts/can-you-turn-right-on-red-in-vietnam_1.jpg'
+  src: '/assets/images/posts/can-you-turn-right-on-red-in-vietnam_1.jpg'
   alt: 'can-you-turn-right-on-red-in-vietnam'
 tags: 'travel, driving, street, traffic, vietnam, ho chi minh city, saigon'
 author: 'Hoa'
