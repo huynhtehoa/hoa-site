@@ -1,6 +1,6 @@
 <template>
   <div class="text-right space-x-6">
-    <Nuxt-Link
+    <nuxt-link
       v-for="route in routes"
       :key="route.name"
       :to="route.path"
@@ -8,7 +8,7 @@
       active-class="underline"
     >
       {{ route.name }}
-    </Nuxt-Link>
+    </nuxt-link>
   </div>
 </template>
 

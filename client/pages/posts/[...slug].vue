@@ -1,5 +1,5 @@
 <template>
   <main class="prose max-w-lg">
-    <ContentDoc />
+    <content-doc />
   </main>
 </template>
