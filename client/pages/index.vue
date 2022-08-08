@@ -30,6 +30,12 @@
 </template>
 
 <script setup lang="ts">
+import { useHead } from '#imports';
+
+useHead({
+  title: 'Hoa | Home',
+});
+
 const socialMedias = [
   {
     name: 'Facebook',
