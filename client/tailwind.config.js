@@ -1,6 +1,4 @@
-import { Config } from 'tailwindcss';
-
-export default <Config> {
+module.exports = {
   darkMode: 'class',
   plugins: [
     require('@tailwindcss/typography'),
