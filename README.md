@@ -1,6 +1,6 @@
 # Hi
 
-This is my playground and note sharing place. Feel free to [share your note as well](#posting)!
+This is where I jot down any random ideas, stories, and knowledge that I find interesting. Feel free to [share your note as well](#posting)!
 
 Visit <https://hoahuynh.me>
 
@@ -8,7 +8,7 @@ Visit <https://hoahuynh.me>
 
 ### Setup
 
-*For nerd: There is only a `client` now, which is built around [Nuxt 3](https://v3.nuxtjs.org/), [Nuxt Content](https://content.nuxtjs.org/), and [Tailwindcss](https://tailwindcss.com/).*
+*For nerd: There is only a `client` now, which is built around [Nuxt 3](https://v3.nuxtjs.org/), [Nuxt Content](https://content.nuxtjs.org/), and [Tailwindcss](https://tailwindcss.com/). And I am using [pnpm](https://pnpm.io/)*.
 
 1. Clone and install
 
@@ -30,27 +30,7 @@ Visit <https://hoahuynh.me>
 
 ### Posting
 
-If there is anything you find interesting and want to share it, you can create a post following below steps:
-
-1. Make sure to branch from the lastest `master`
-
-    ```bash
-    git pull origin master # or whatever might work for you
-
-    git checkout -b [post_title]
-    ```
-
-2. Create a post in `content/posts` directory
-
-      ```bash
-      touch content/posts/[post-title.md]
-      ```
-
-    - Unfarmiliar with **markdown syntax**? Check [here](https://www.markdownguide.org/basic-syntax)
-    - Your images go to `assets/images/posts/[post_title]/[post_title_image_name.png]`. E.g. `my_post_title_thumbnail.png`
-    - Feeling extra? Try [Nuxt Content MDC](https://content.nuxtjs.org/guide/writing/mdc)
-
-3. Commit, push, and create a Pull Request
+Check [here](https://github.com/huynhtehoa/random-shit/tree/master/client#post-your-own-sharing)
 
 ### Contribution
 
