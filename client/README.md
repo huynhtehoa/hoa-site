@@ -19,7 +19,7 @@ If you have not set up already, be sure to check it [here](https://github.com/hu
       ```
 
     - Unfarmiliar with **markdown syntax**? Check [here](https://www.markdownguide.org/basic-syntax)
-    - Your images go to `assets/images/posts/[post_title]/[post_title_image_name.png]`. E.g. `my_post_title_thumbnail.png`
+    - Your images go to `public/images/posts/[post_title]/[post_title_image_name.png]`. E.g. `my_post_title_thumbnail.png`
     - Feeling extra? Try [Nuxt Content MDC](https://content.nuxtjs.org/guide/writing/mdc)
 
 3. Commit, push, and create a Pull Request
